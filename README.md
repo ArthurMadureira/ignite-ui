@@ -29,5 +29,3 @@ yarn add @ignite-ui/react
 - [x] MultiStep
 - [x] Toast
 - [x] Tooltip
-- [x] Tooltip
-- [x] Toast
