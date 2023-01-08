@@ -1,0 +1,2 @@
+import{d as t}from"./index.8ccd0f9e.js";import"./index.3b41a4d9.js";import"./iframe.0627f9ad.js";import"./index.c28fbcfd.js";import"./jsx-runtime.c770cd92.js";const i={title:"Alert Messages/Toast",component:t,args:{src:"https://www.github.com/ArthurMadureira.png",alt:"Arthur Madureira"},argTypes:{src:{control:{type:"text"}}}},p={args:{buttonText:"Open toast"}},m=["Primary"];export{p as Primary,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Toast.stories.9b5fb3e4.js.map

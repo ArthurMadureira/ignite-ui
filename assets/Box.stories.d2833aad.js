@@ -1,0 +1,2 @@
+import{B as e,T as t}from"./index.8ccd0f9e.js";import{j as r,F as o}from"./jsx-runtime.c770cd92.js";import"./index.3b41a4d9.js";import"./iframe.0627f9ad.js";import"./index.c28fbcfd.js";const c={title:"Surfaces/Box",component:e,args:{children:r(o,{children:r(t,{children:"Testing the checkbox element"})})},argTypes:{children:{control:{type:null}}}},l={},p=["Primary"];export{l as Primary,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Box.stories.d2833aad.js.map

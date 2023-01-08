@@ -1,0 +1,2 @@
+import{A as r}from"./index.8ccd0f9e.js";import"./index.3b41a4d9.js";import"./iframe.0627f9ad.js";import"./index.c28fbcfd.js";import"./jsx-runtime.c770cd92.js";const p={title:"Data display/Avatar",component:r,args:{src:"https://www.github.com/ArthurMadureira.png",alt:"Arthur Madureira"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.4a9f6db4.js.map

@@ -1,0 +1,2 @@
+import{e as t}from"./index.8ccd0f9e.js";import"./index.3b41a4d9.js";import"./iframe.0627f9ad.js";import"./index.c28fbcfd.js";import"./jsx-runtime.c770cd92.js";const s={title:"Alert Messages/Tooltip",component:t,args:{src:"https://www.github.com/ArthurMadureira.png",alt:"Arthur Madureira"},argTypes:{src:{control:{type:"text"}}}},a={args:{tooltipText:"Tooltip"}},m=["Primary"];export{a as Primary,m as __namedExportsOrder,s as default};
+//# sourceMappingURL=Tooltip.stories.9403f02d.js.map
